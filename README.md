@@ -4,7 +4,7 @@ Empolgado com a tecnologia e sua capacidade de transformar experiências digitai
 
 ---
 
-### Linguagens + HTML e CSS
+### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=cs,java,py,js,ts,html,css)](https://skillicons.dev)
 
 ### Ferramentas

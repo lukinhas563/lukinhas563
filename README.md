@@ -1,16 +1,21 @@
 # Olá! Me chamo Lucas Montenegro 👋
 
-Empolgado com a tecnologia e sua capacidade de transformar experiências digitais, sou um profissional em Desenvolvimento **Back-end**. Comprometido com a excelência, possuo habilidade em **Python**, **Java**, **C#**, **Typescript**, **Spring**, **.NET** e outras tecnologias relevantes.
+Sou desenvolvedor Back-end apaixonado por tecnologia e por criar soluções que transformam experiências digitais. Com sólida experiência em várias linguagens e ferramentas, busco aprimorar minhas habilidades e contribuir com projetos desafiadores.
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasmontenegro475%40gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucasmontenegro)
 
 ---
 
 ### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=cs,java,py,js,ts,html,css)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=go,js,ts,cs,java,py,html,css)
 
 ### Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,dotnet,svelte,vue,docker,express,git,figma,jest,nodejs,styledcomponents)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,spring,rabbitmq,tailwind,threejs,vitest,yarn,firebase,azure,yarn)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,dotnet,svelte,vue,docker,express,git,figma,jest,nodejs,styledcomponents)
+![My Skills](https://skillicons.dev/icons?i=angular,spring,rabbitmq,tailwind,threejs,vitest,yarn,firebase,azure,yarn)
+
 ### Banco de dados
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)
 
 ---
+
+🚀 Vamos nos conectar!

@@ -7,11 +7,11 @@ Sou desenvolvedor Back-end apaixonado por tecnologia e por criar soluções que 
 ---
 
 ### Linguagens
-![My Skills](https://skillicons.dev/icons?i=go,js,ts,cs,java,py,html,css)
+![My Skills](https://skillicons.dev/icons?i=go,js,ts,html,css)
 
 ### Ferramentas
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,dotnet,svelte,vue,docker,express,git,figma,jest,nodejs,styledcomponents)
-![My Skills](https://skillicons.dev/icons?i=angular,spring,rabbitmq,tailwind,threejs,vitest,yarn,firebase,azure,yarn)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,docker,express,git,figma,jest,nodejs)
+![My Skills](https://skillicons.dev/icons?i=angular,rabbitmq,tailwind,vitest,yarn,firebase)
 
 ### Banco de dados
 ![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)

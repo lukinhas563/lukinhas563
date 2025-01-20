@@ -11,7 +11,7 @@ Sou desenvolvedor Full Stack com experiência em **GO**, **TypesScript**, **Java
 
 ### Ferramentas
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,docker,express,git,figma,jest,nodejs)
-![My Skills](https://skillicons.dev/icons?i=angular,kafka,tailwind,vitest,yarn,firebase)
+![My Skills](https://skillicons.dev/icons?i=angular,kafka,tailwind,vitest,yarn)
 
 ### Banco de dados
 ![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)
